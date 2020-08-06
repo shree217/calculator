@@ -1,4 +1,4 @@
-# calculator
+# Standard calculator
 
 Hey!! guys , not every one is good at math. 
 
